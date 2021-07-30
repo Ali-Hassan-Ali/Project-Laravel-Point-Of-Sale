@@ -1,4 +1,4 @@
-Projct System Laravel Point Of Sale
+Project System Laravel Point Of Sale
 
 Dashboard
 
